@@ -28,6 +28,11 @@
     <img src="https://skillicons.dev/icons?i=py,git,github,bash,c,cpp,fastapi,html,js,pytorch,react,sklearn,selenium,anaconda,matlab,arduino&perline=8"/>
 </div>
 
+## 📊 GitHub Stats:
+<div align="center">    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareim-y&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
 ## 📫 Feel Free to Reach Out
 
 <div align="center">
@@ -41,3 +46,5 @@
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
 </div>
+
+
