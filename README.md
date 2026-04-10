@@ -21,6 +21,7 @@
 - [IDEA Award](https://su.ucalgary.ca/programs-services/funding-awards/academic-awards/)
 - [Canadian Youth Climate Action Awards 2025 - Honourable Mention](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.pivotgreen.ca%2Fclimateaward%2F2025-cycaa-prize-winners&urlhash=rCQX&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_honors_details%3BK5JdDSuOTyyyzBVlqy4ouw%3D%3D)
 - [ATCO Community Energy Award](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.atco.com%2Fen-ca%2Four-commitment%2Fcommunity%2Fcommunity-energy-fund%2F2024-recipients.html&urlhash=wMTh&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_honors_details%3BK5JdDSuOTyyyzBVlqy4ouw%3D%3D)
+- Gold Medal @ Electrical Engineering Capestone Fair, Schulich School of Engineering
 
 ## 👨🏼‍💻 Tech Stack I Use
 
